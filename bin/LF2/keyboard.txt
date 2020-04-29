@@ -1,0 +1,36 @@
+1
+0
+Keypad: 8
+Keypad: 2
+Keypad: 4
+Keypad: 6
+Keypad: 5
+Keypad: 0
+Keypad: +
+2
+0
+W
+X
+A
+D
+S
+Tab
+`
+3
+0
+Up
+Down
+Left
+Right
+Enter
+Shift
+Ctrl
+4
+0
+I
+,
+J
+L
+K
+Space
+.
